@@ -1,0 +1,1 @@
+EXEC RealizarPrestamo --1, 2, '2025-03-01';

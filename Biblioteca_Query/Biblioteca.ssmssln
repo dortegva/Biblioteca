@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Biblioteca_Query", "Biblioteca_Query\Biblioteca_Query.ssmssqlproj", "{0D368B99-769C-41E0-9F7C-5B55AAD54D36}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Insert", "Insert\Insert.ssmssqlproj", "{A17CBCB3-1DC0-4733-B2BE-22E6837D25BC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Procedure", "Procedure\Procedure.ssmssqlproj", "{F78EA3D9-B03C-4E29-BCC4-811722748187}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Consultas", "Consultas\Consultas.ssmssqlproj", "{04728FF5-A663-47C4-84C6-1C8BD954AD74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D368B99-769C-41E0-9F7C-5B55AAD54D36}.Default|Default.ActiveCfg = Default
+		{A303F167-E9FC-4D48-B394-2B00311490CC}.Default|Default.ActiveCfg = Default
+		{A17CBCB3-1DC0-4733-B2BE-22E6837D25BC}.Default|Default.ActiveCfg = Default
+		{F78EA3D9-B03C-4E29-BCC4-811722748187}.Default|Default.ActiveCfg = Default
+		{04728FF5-A663-47C4-84C6-1C8BD954AD74}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {077161D5-2ED4-4297-A7B0-356B46859234}
+	EndGlobalSection
+EndGlobal

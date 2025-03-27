@@ -1,0 +1,4 @@
+CREATE TABLE Autores (
+    AutorID tinyINT IDENTITY(1,1) PRIMARY KEY,
+    NombreAutor VARCHAR(255) NOT NULL
+);
